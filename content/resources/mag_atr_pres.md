@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-340-ubiquitination-the-proteasome-and-human-disease-fall-2004/817b8b5d415ddf7cb8e121ca31d1e734_mag_atr_pres.pdf
+file: /media/courses/7-340-ubiquitination-the-proteasome-and-human-disease-fall-2004/817b8b5d415ddf7cb8e121ca31d1e734_mag_atr_pres.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: mag_atr_pres.pdf
 uid: 817b8b5d-415d-df7c-b8e1-21ca31d1e734
