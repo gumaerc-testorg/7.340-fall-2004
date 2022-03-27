@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 92dd0089-3443-33e9-71f7-fbe6a88867cc
 resourcetype: Document
 title: smp_std_assgn1.pdf
 uid: 98b3beee-6dc6-f401-1950-fd1ab3bf56a0

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 92dd0089-3443-33e9-71f7-fbe6a88867cc
 resourcetype: Document
 title: veronica_ss9_2.pdf
 uid: ad2b6adc-9b26-e1ec-1210-9bb4b3b0c966

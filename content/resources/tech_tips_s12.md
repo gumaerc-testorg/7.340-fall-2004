@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: b277c09f-79f7-528d-1196-387e5a14b01f
 resourcetype: Document
 title: tech_tips_s12.pdf
 uid: 652ab329-4bfc-6551-7d40-999a4a46f9ff

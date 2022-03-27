@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 92dd0089-3443-33e9-71f7-fbe6a88867cc
 resourcetype: Document
 title: mag_atr_pres.pdf
 uid: c3d1536e-9d2b-f84c-357c-7a87a29fa066
