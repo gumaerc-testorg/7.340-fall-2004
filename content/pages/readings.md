@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The Technical Tips handouts in the table describe in greater detail the
+  experimental methods and technologies used in the assigned literature listed in
+  the Readings column.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -72,7 +75,7 @@ Hershko, A., A. Ciechanover, H. Heller, A. L. Haas, and I. A. Rose. "Proposed ro
   
 Ciechanover, A., D. Finley, and A. Varshavsky. "Ubiquitin dependence of selective protein degradation demonstrated in the mammalian cell cycle mutant ts85." _Cell_ 37 (1984): 57-66.  
   
-Technical Tips ([PDF - 1.0 MB]({{< baseurl >}}/resources/tech_tips_s2))  
+Technical Tips ({{% resource_link 16f4d4fe-1018-91c1-2b45-9fc42782cff7 "PDF - 1.0 MB" %}})  
   
 _Recommended Review Papers  
 _  
@@ -101,7 +104,7 @@ Hoppe, T., K. Matuschewski, M. Rape, S. Schlenker, H. D. Ulrich, and S. Jentsch.
   
 Margottin, F., S. P. Bour, H. Durand, L. Selig, S. Benichou, V. Richard, D. Thomas, K. Strebel, and R. Benarous. "A novel human WD protein, h- TrCP, that interacts with HIV-1 Vpu connects CD4 to the ER degradation pathway through an F-box motif." _Mol. Cell_ 1 (1998): 565-574.  
   
-Technical Tips ([PDF]({{< baseurl >}}/resources/tech_tips_s3))  
+Technical Tips ({{% resource_link a6a44eb9-cfb1-1885-2c63-d13f73c1206d "PDF" %}})  
   
 _Recommended Review Papers_  
   
@@ -130,7 +133,7 @@ Mosesson, Y., K. Shtiegman, M. Katz, Y. Zwang, G. Vereb, J. Szollosi, and Y. Yar
   
 Pornillos, O., D. S. Higginson, K. M. Stray, R. D. Fisher, J. E. Garrus, M. Payne, G. P. He, H. E. Wang, S. G. Morham, and W. I. Sundquist. "HIV Gag mimics the Tsg101-recruiting activity of the human Hrs protein." _J. Cell Biol_. 162 (2003): 425-434.  
   
-Technical Tips ([PDF]({{< baseurl >}}/resources/tech_tips_s4))  
+Technical Tips ({{% resource_link 13c66072-61d8-dc34-54a7-e521767d2697 "PDF" %}})  
   
 _Recommended Review Papers_  
   
@@ -157,7 +160,7 @@ Gonzalez, F., A. Delahodde, T. Kodadek, and S. A. Johnston. "Recruitment of a 19
   
 Lee, K-B., D. Wang, S. J. Lippard, and P. A. Sharp. "Transcription-coupled and   DNA damage-dependent ubiquitination of RNA polymerase II." _in vitro. Proc. Natl. Acad. Sci. USA_ 99 (2002): 4239-4244.  
   
-Technical Tips ([PDF]({{< baseurl >}}/resources/tech_tips_s5))  
+Technical Tips ({{% resource_link ba25ac6a-2eef-121e-0ba4-7eaa7f9da709 "PDF" %}})  
   
 _Recommended Review Papers  
 _  
@@ -182,7 +185,7 @@ Busino, L., M. Donzelli, M. Chiesa, D. Guardavaccaro, D. Ganoth, N. V. Dorrello,
   
 Li, B., and Q. P. Dou. "Bax degradation by the ubiquitin/proteasome-dependent pathway: Involvement in tumor survival and progression." _Proc. Natl. Acad. Sci. USA_ 97 (2000): 3850-3855.  
   
-Technical Tips ([PDF]({{< baseurl >}}/resources/tech_tips_s6))  
+Technical Tips ({{% resource_link b8f20702-b532-9ea1-d686-c0b4c40d2e3e "PDF" %}})  
   
 _Recommended Review Papers  
 _  
@@ -209,7 +212,7 @@ Li, T., E. Evdokimov, R-F. Shen, C-C. Chao, E. Tekle, T. Wang, E. R. Stadtman, D
   
 Furukawa, K., N. Mizushima, T. Noda, and Y. Ohsumi. "A protein conjugation system in yeast with homology to biosynthetic enzyme reaction of prokaryotes." _J. Biol. Chem._ 275 (2000): 7462-7465.  
   
-Technical Tips ([PDF]({{< baseurl >}}/resources/tech_tips_s7))
+Technical Tips ({{% resource_link ca5566d4-b65c-8f7d-4ef5-f60ff87f337a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -230,7 +233,7 @@ Levitskaya, J., A. Sharipo, A. Leonchiks, A. Ciechanover, and M. G. Masucci. "In
   
 Neish, A. S., A. T. Gewirtz, H. Zeng, A. N. Young, M. E. Hobert, V. Karmali, A. S. Rao, and J. L. Madara. "Prokaryotic regulation of epithelial responses by inhibition of I B-  ubiquitination." _Science_ 289 (2000): 1560-1563.  
   
-Technical Tips ([PDF]({{< baseurl >}}/resources/tech_tips_s8))  
+Technical Tips ({{% resource_link 67697506-5d42-4225-836a-4bdeaf7071a2 "PDF" %}})  
   
 _Recommended Review Papers_  
   
@@ -257,7 +260,7 @@ Scheffner, M., J. M. Huibregtse, R. D. Vierstra, and P. M. Howley. "The HPV-16 E
   
 Meetei, A. R., J. P. de Winter, A. L. Medhurst, M. Wallisch, Q. Waisfisz, H. J. van de Vrugt, A. B. Oostra, Z. Yan, C. Ling, C. E. Bishop, M. E. Hoatlin, H. Joenje, and W. Wang. "A novel ubiquitin ligase is deficient in Fanconi anemia." _Nature Genetics_ 35 (2003): 165-170.  
   
-Technical Tips ([PDF]({{< baseurl >}}/resources/tech_tips_s9))  
+Technical Tips ({{% resource_link a01b9811-4c09-64ad-cbbe-369664f40bc6 "PDF" %}})  
   
 _Recommended Review Papers_  
   
@@ -307,7 +310,7 @@ Kalchman, M. A., R. K. Graham, G. Xia, H. B. Koide, J. G. Hodgson, K. C. Graham,
   
 Ivan, M., K. Kondo, H. Yang, W. Kim, J. Valiando, M. Ohh, A. Salic, J. M. Asara, W. S. Lane, and W. G. Kaelin Jr. "HIF  targeted for VHL- mediated destruction by proline hydroxylation: implications for O2 sensing." _Science_ 292 (2001): 464-468.  
   
-Technical Tips ([PDF]({{< baseurl >}}/resources/tech_tips_s11))  
+Technical Tips ({{% resource_link 723a2cee-52a0-6902-083b-a8facd258600 "PDF" %}})  
   
 _Recommended Review Papers_  
   
@@ -337,7 +340,7 @@ Ward, C. L., S. Omura, and R. R. Kopito. "Degradation of CFTR by the ubiquitin-p
   
 Malik, B., L. Schlanger, O. Al-Khalili, H-F. Bao, G. Yue, S. R. Price, W. E. Mitch, and D. G. Eaton. "ENaC degradation in A6 cells by the ubiquitin- proteasome system." _J. Biol. Chem_. 276 (2001): 12903-12910.  
   
-Technical Tips ([PDF]({{< baseurl >}}/resources/tech_tips_s12))  
+Technical Tips ({{% resource_link 652ab329-4bfc-6551-7d40-999a4a46f9ff "PDF" %}})  
   
 _Recommended Review Papers  
 _  

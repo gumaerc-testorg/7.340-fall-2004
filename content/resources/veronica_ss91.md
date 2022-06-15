@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/7-340-ubiquitination-the-proteasome-and-human-disease-fall-2004/0a5d95931b0004fe2fa2775009d87fe4_veronica_ss91.pdf
+file: /courses/7-340-ubiquitination-the-proteasome-and-human-disease-fall-2004/0a5d95931b0004fe2fa2775009d87fe4_veronica_ss91.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
