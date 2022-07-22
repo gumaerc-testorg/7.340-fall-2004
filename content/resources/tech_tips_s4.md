@@ -6,6 +6,7 @@ file: /courses/7-340-ubiquitination-the-proteasome-and-human-disease-fall-2004/1
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tech_tips_s4.pdf
 uid: 13c66072-61d8-dc34-54a7-e521767d2697
 ---
 The Technical Tips handouts describe in greater detail the experimental methods and technologies used in the assigned literature.
-

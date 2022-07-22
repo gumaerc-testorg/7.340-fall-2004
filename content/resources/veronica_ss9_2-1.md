@@ -6,6 +6,7 @@ file: /courses/7-340-ubiquitination-the-proteasome-and-human-disease-fall-2004/a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: veronica_ss9_2.pdf
 uid: ad2b6adc-9b26-e1ec-1210-9bb4b3b0c966
 ---
 Sample of a student summary paper of the session 9 readings, courtesy of Veronica Zepeda.
-

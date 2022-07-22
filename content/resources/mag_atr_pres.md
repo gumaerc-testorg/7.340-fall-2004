@@ -4,6 +4,7 @@ description: ''
 file: /courses/7-340-ubiquitination-the-proteasome-and-human-disease-fall-2004/817b8b5d415ddf7cb8e121ca31d1e734_mag_atr_pres.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: mag_atr_pres.pdf

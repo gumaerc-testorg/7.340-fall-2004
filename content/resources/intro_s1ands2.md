@@ -5,6 +5,7 @@ file: /courses/7-340-ubiquitination-the-proteasome-and-human-disease-fall-2004/4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: intro_s1ands2.pdf
 uid: 4af503de-fc9d-0b37-f3cc-54a6ac50d344
 ---
 Summary of topics covered in Class Sessions 1 and 2 lectures.
-

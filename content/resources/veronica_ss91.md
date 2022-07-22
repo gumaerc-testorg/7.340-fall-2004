@@ -4,6 +4,7 @@ description: ''
 file: /courses/7-340-ubiquitination-the-proteasome-and-human-disease-fall-2004/0a5d95931b0004fe2fa2775009d87fe4_veronica_ss91.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: veronica_ss91.pdf
